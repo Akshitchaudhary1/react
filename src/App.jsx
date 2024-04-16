@@ -2,6 +2,7 @@
 
 // import './App.css'
 // import Counter from './components/changeName'
+import CardHandler from "./components/CardHandler"
 import CounterMain from "./components/CounterMain"
 
 function App() {
@@ -10,7 +11,7 @@ function App() {
     
 // < changeName name={name} onUpdate={()=>setName("Kiet MCA")}/>
 // < changeName name={sname} onUpdate={()=>setName("MCA Kiet")}/>
-<CounterMain/>
+<CardHandler/>
   
   )
 }

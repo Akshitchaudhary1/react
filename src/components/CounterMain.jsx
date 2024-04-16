@@ -84,7 +84,7 @@ function CounterMain() {
         className="btn btn-outline-danger d-flex justify-content-center container col-1 "
         onClick={resetAll}
       >
-        Reset All
+        Reset Al
       </button>
       <h2 className="d-flex justify-content-center text-danger fs-1">{active }</h2>
       <div>
