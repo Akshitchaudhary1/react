@@ -1,6 +1,6 @@
 const Info =(props) => {
     let {lang}=props;
-    return{
+    return {
         <div>
         <h1> TOP PROGRMMING LANGUAGES</h1>
         { lang.map((item,index)=>(
